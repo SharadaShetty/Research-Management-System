@@ -25,7 +25,7 @@ The Research Management System (RMS) is a web-based application designed to stre
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/shvm/research_mamagement_system.git
+git clone https://github.com/SharadaShetty/research_mamagement_system.git
 ```
 
 2. Import the database schema from `database.sql` into your MySQL database.
@@ -55,7 +55,8 @@ This project is licensed under the MIT License.
 
 For inquiries or support, please contact:
 
-- **Developer Name:** Shivam Singh
-- **Email:** shivamsingh271104@gmail.com
+- **Developers Name:**
+- Sharada Shetty
+- Shivam Singh
+- 
 
-# Research-Management-System
